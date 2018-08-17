@@ -1,2 +1,2 @@
 # Gestion-Agriculture
-Permet de faire la gestion de l'agriculture
+Permet de faire la gestion d'un environnement agricole
